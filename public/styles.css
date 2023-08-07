@@ -1,0 +1,30 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+p {
+    text-align: justify;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: aliceblue;
+}
+body {
+    background-color: rgb(48, 48, 112);
+}
+
+img {
+    border-radius: 50%;
+    width: 30%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
