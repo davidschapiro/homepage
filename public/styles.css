@@ -5,6 +5,7 @@ h1 {
     font-family: "Roboto", sans-serif;
     font-weight: bold;
     color: aliceblue;
+    font-size: 8vw;
 }
 
 p {
@@ -12,7 +13,7 @@ p {
     font-family: "Roboto", sans-serif;
     font-weight: normal;
     color: aliceblue;
-    font-size: 10vw;
+    font-size: 5vw;
 }
 body {
     background-color: rgb(48, 48, 112);
