@@ -12,6 +12,7 @@ p {
     font-family: "Roboto", sans-serif;
     font-weight: normal;
     color: aliceblue;
+    font-size: 2vw;
 }
 body {
     background-color: rgb(48, 48, 112);
